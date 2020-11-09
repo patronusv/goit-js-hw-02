@@ -9,8 +9,8 @@ let result = '';
             result = array[i];
         }
     }
-    console.log(array);
-    console.log(result);
+    // console.log(array);
+    // console.log(result);
     return result;
 }
 
