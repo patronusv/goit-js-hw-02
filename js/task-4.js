@@ -16,8 +16,8 @@ function formatString (string, maxLength = 40) {
         string = array.join('');
     }
 
-    console.log(array);
-    console.log(string);
+    // console.log(array);
+    // console.log(string);
     return string;
     
 }
