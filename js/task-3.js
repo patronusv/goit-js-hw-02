@@ -1,12 +1,12 @@
 'use strict'
 function findLongestWord (string = "") {
   // Write code under this line
-    let array
+    let array;
 let result = '';
     array = string.split(' ');
     for (let i = 0; i < array.length; i += 1){
         if (result.length < array[i].length) {
-            result = array[i]
+            result = array[i];
         }
     }
     console.log(array);
