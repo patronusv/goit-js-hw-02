@@ -51,8 +51,7 @@ function addLogin (allLogins, login) {
     console.log(isUnique);    
     return message;
     
-    
-    
+        
 }
 
 const logins = ['Mango', 'robotGoogles', 'Poly', 'Aj4x1sBozz', 'qwerty123'];
